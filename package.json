@@ -1,0 +1,14 @@
+{
+  "name": "hacker-news-sorting-validation",
+  "version": "1.0.0",
+  "description": "A script to validate sorting order of Hacker News newest articles using Playwright.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.43.0"
+  }
+}
