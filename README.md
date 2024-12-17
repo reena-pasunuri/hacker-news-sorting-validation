@@ -13,7 +13,7 @@ This project is a JavaScript script built using Microsoft's [Playwright](https:/
 **Setup and Installation**
 
 1. Prerequisites
-- **Node.js** should be installed on your system.
+- **Node.js** installed on your system.
 - Basic understanding of the terminal/command prompt.
 
 2. Install Dependencies
