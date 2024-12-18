@@ -1,5 +1,4 @@
 name: Run Playwright Script
-
 on:
   push:
     branches:
