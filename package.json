@@ -4,11 +4,15 @@
   "description": "A script to validate sorting order of Hacker News newest articles using Playwright.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "jest --detectOpenHandles --forceExit"
   },
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
     "playwright": "^1.43.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
